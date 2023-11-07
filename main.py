@@ -1,3 +1,3 @@
-a = 10
-b = 20
+a = "namaku"
+b = "nugroho"
 print(a+b)
