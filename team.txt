@@ -1,2 +1,3 @@
-leader : raline
+leader = raline
 staff = eka
+security = makbongky
