@@ -1,3 +1,6 @@
 a = "namaku"
 b = "nugroho"
-print(a+b)
+c = "ganteng"
+abc = "namaku nugroho ganteng"
+print(abc)
+print(type(abc))
