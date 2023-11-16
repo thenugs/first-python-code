@@ -1,3 +1,4 @@
 a = "namaku"
 b = "nugroho"
-print(a+b)
+c = "ganteng"
+print(a+b+c)
