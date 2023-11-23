@@ -23,7 +23,7 @@ print("kamu sangat ideal")
 #gen X  <25
 #gen Y  <30
 #gen Z  < 20
-#gen tua  >30
+#gen tua/bober  >30
 
 usia = float(input("masukan usia anda :"))
 if usia <= 25 :
