@@ -16,5 +16,8 @@ print(x[-5]) # (x[-5]) maksudnya adalah mencetak tapi mulai dari belakang
 # Fungsi fungsi pada list
 x = [8,9,"OTKP","ATPH",True]
 
-x =(len(x)) # hasilnya = 8 , (len(x)) ini untuk mendapatkan panjang list yang ada di variabel x
-x [2]= semarang
+print(x) =(len(x)) # hasilnya = 8 , (len(x)) ini untuk mendapatkan panjang list yang ada di variabel x
+x[2]= "semarang"
+print(x)
+
+# masih eror besok belajar lagi ya gaes
