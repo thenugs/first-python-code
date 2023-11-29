@@ -20,16 +20,18 @@ print("kamu sangat ideal")
 
 #contoh3
 # masih butuh penyempurnaan bagaimana jika ifnya bertingkat
-#gen X  <25
-#gen Y  <30
-#gen Z  < 20
-#gen tua/bober  >30
+#gen Z  <25 tahun
+#gen Y  <25-35 tahun
+#gen X  <36-55 tahun
+#gen bomber >55 tahun
 
 usia = float(input("masukan usia anda :"))
-if usia <= 25 :
-    print("kamu gen x")
-else:print("gen tua")
-if usia >= 30 :
-    print("gen tua")
-else:print("gen gak jelas")
+if usia > 55 :
+    print("baby boomer")
+elif(usia>36):
+    print("gen X")
+elif(usia>25):
+    print("gen Y")
+elif(usia<=25):
+    print("gen Z")
 
